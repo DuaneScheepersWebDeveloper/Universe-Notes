@@ -1,0 +1,67 @@
+Eclpse notes
+
+ecli123!
+
+WIFI Password:pse20admin19%
+Eclipse private details password:
+ecli20admintech12?  (One Note)
+Eclipse Technologies Username: 
+Eclipse Technologies Password:
+Global Password: ecli123!
+
+002 server:Carpe22DiemAdmin?
+
+github name:dotNetDuane
+
+002 Server Password: Duaneecli123!
+to logon to eclipse on the 202 Server: Duaneecli123!
+
+work email : duanes@eclipsetechnologies.co.za
+password: Carpe20Diem18%
+Carpe22DiemAdmin? - Eclipselog001.dedicated.co.za (169.1.24.151)
+back server (house): 192.168.2.5
+
+https://learn.rocketsoftware.com/login/index.php
+https://learn.rocketsoftware.com/mod/hvp/view.php?id=1837
+https://learn.rocketsoftware.com/mod/book/view.php?id=1859Jmx
+
+
+Visual Basic
+
+Cheat Sheet for Universe Programming https://learn.rocketsoftware.com/mod/book/view.php?id=1012&chapterid=297
+
+How to compile in U2 Universe https://rocketsoftware.github.io/rocket-mvbasic/usage/Compile/
+
+https://rocketsoftware.github.io/rocket-mvbasic/
+
+GRDL is Transport holdings
+
+C:\Users\Henk\.vscode\extensions\UV\snippets\unibasic.json
+%APPDATA%\Code\Dev001\.
+
+backup server username: developer
+backup server: global
+
+Fort Client:ecli23admin08!
+
+//This is used when going on dynamic connect
+UniVerse username: dev
+Universe Password: ecli123!
+
+NB GRDL is Transport Holdings
+NB Imperial is now DP World
+172.27.123.202 ->DP world , allways use FortiClient , 202
+Eclipselog001.dedicated.co.za (169.1.24.151) -> Transport holdings GRDL grd20admin19? 
+Eclipselog002.dedicated.co.za (197.242.145.81) -> Other clients -> Anydesk Carpe22DiemAdmin?
+Carpe22DiemAdmin?
+
+Wiekus@202308
+TRP012515473
+
+
+LIST ORDERS BY DATE WITH GE "01-05-2022" AND WITH DATE LE "01-06-2022"
+LIST ORDERS BY DATE WITH GE "01-05-2023" AND WITH DATE LE "01-06-2023"
+LIST ORDERS BY DATE WITH GE "01-05-2022" AND WITH DATE LT "01-06-2022"
+
+LIST ORDERS BY  WITH DATE LT "01-06-2022"  AND  DATE WITH GE "01-05-2022"
+https://raw.githubusercontent.com/jamesmontemagno/app-monkeys/master/MonkeysApp/monkeydata.json
